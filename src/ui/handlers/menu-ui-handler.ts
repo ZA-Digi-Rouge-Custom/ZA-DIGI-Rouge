@@ -2,7 +2,7 @@ import { pokerogueApi } from "#api/pokerogue-api";
 import { loggedInUser, updateUserInfo } from "#app/account";
 import { globalScene } from "#app/global-scene";
 import { handleTutorial, Tutorial } from "#app/tutorial";
-import { bypassLogin, isApp, isBeta, isDev } from "#constants/app-constants";
+import { bypassLogin, enableDataImport, isApp, isBeta, isDev } from "#constants/app-constants";
 import { AdminMode, getAdminModeName } from "#enums/admin-mode";
 import { Button } from "#enums/buttons";
 import { GameDataType } from "#enums/game-data-type";
@@ -238,7 +238,7 @@ export class MenuUiHandler extends MessageUiHandler {
       });
     };
 
-    if (isBeta || isDev || isApp) {
+    if (isBeta || isDev || isApp || enableDataImport) {
       manageDataOptions.push({
         label: i18next.t("menuUiHandler:importSession"),
         handler: () => {
@@ -293,7 +293,7 @@ export class MenuUiHandler extends MessageUiHandler {
       },
       keepOpen: true,
     });
-    if (isBeta || isDev || isApp) {
+    if (isBeta || isDev || isApp || enableDataImport) {
       manageDataOptions.push({
         label: i18next.t("menuUiHandler:importData"),
         handler: () => {

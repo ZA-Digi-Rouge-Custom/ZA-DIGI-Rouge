@@ -12,7 +12,7 @@
     "build:beta": "vite build --mode beta",
     "build:dev": "vite build --mode development",
     "build:app": "vite build --mode app",
-    "build:pages": "vite build --base /ZA-DIGI-Rouge/",
+    "build:pages": "vite build --base /za-digi-rouge/",
     "cap:sync": "cap sync android",
     "cap:open": "cap open android",
     "android:sync": "npm run build:app && cap sync android",

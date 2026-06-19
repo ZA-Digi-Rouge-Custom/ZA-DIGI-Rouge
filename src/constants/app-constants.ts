@@ -19,3 +19,6 @@ export const isApp = import.meta.env.MODE === "app";
 export const IS_TEST = import.meta.env.MODE === "test";
 
 export const bypassLogin = import.meta.env.VITE_BYPASS_LOGIN === "1";
+
+/** `true` when data import options are enabled in the settings menu (e.g. GitHub Pages deploy). */
+export const enableDataImport = import.meta.env.VITE_ENABLE_DATA_IMPORT === "1";

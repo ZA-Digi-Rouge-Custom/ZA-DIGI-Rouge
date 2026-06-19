@@ -17,6 +17,7 @@ interface ImportMetaEnv {
   readonly VITE_DISCORD_CLIENT_ID?: string;
   readonly VITE_GOOGLE_CLIENT_ID?: string;
   readonly VITE_I18N_DEBUG?: "0" | "1";
+  readonly VITE_ENABLE_DATA_IMPORT?: "0" | "1";
 }
 
 // tell vite to disallow missing env vars
