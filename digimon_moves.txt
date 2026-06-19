@@ -1,0 +1,1327 @@
+Pokemon Infinity - Digimon Movesets
+Source: https://pokemoninfinity.miraheze.org (Category:Digimon)
+Generated: 2026-05-26T06:30:56.843Z
+Total Digimon: 75
+
+- Level 0 = move learned upon evolution.
+- Korean name (in parentheses) is taken from locales/ko/move.json when a matching key exists,
+  with Digimon-original moves filled in from namu.wiki (포켓몬스터 인피니티/고유 기술).
+- Any remaining un-translated English-only entry has no Korean name in either source.
+==============================================================================
+
+===== Agumon (Fire, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Incinerate (불태우기), Crush Claw (브레이크클로)
+  Lv. 1: Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Incinerate (불태우기), Crush Claw (브레이크클로)
+  Lv. 18: Pepper Breath (꼬마불꽃)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Airdramon (Dragon/Flying, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Brave Bird (브레이브버드), Glare (뱀눈초리), Dragon Dance (용의춤)
+  Lv. 1: Flame Charge (니트로차지), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Heat Wave (열풍), Snarl (바크아웃), Follow Me (날따름), Acrobatics (애크러뱃), Roost (날개쉬기), Bestow (기프트패스), Wing Attack (날개치기), Quick Attack (전광석화), Work Up (분발), Hyper Voice (하이퍼보이스)
+  Lv. 4: Brave Bird (브레이브버드), Glare (뱀눈초리), Dragon Dance (용의춤)
+  Lv. 38: Draco Blitz (드라코드라이브)
+  Lv. 75: Horn Leech (우드혼)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Hurricane (폭풍)
+  - Hyper Voice (하이퍼보이스)
+  - Iron Head (아이언헤드)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+
+===== Angemon (Fairy/Flying, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Light of Ruin (파멸의빛), Whirlwind (날려버리기), Air Slam (헤일로어택)
+  Lv. 1: Pursuit (따라가때리기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Wing Attack (날개치기), Quick Attack (전광석화), Work Up (분발), Hyper Voice (하이퍼보이스)
+  Lv. 4: Light of Ruin (파멸의빛), Whirlwind (날려버리기), Air Slam (헤일로어택)
+  Lv. 38: Heaven's Knuckle (천사의손)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Helping Hand (도우미)
+  - Hurricane (폭풍)
+  - Hyper Voice (하이퍼보이스)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+  - Vacuum Wave (진공파)
+  - Zen Headbutt (사념의박치기)
+
+===== Bakemon (Poison/Ghost, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Memento (추억의선물), Clear Smog (클리어스모그), Shadow Ball (섀도볼)
+  Lv. 1: Protect (방어), Substitute (대타출동), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Ambush (급습), Taunt (도발), Toxic (맹독), Leech Life (흡혈), Dark Pulse (악의파동), Aerial Ace (제비반환)
+  Lv. 4: Curse (저주), Phantom Force (고스트다이브), Shadow Ball (섀도볼)
+  Lv. 45: Super Fang (분노의앞니), Pain Split (아픔나누기)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Icy Wind (얼어붙은바람)
+  - Rollout (구르기)
+  - Teleport (순간이동)
+
+===== Betamon (Water, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Aqua Jet (아쿠아제트), Haze (흑안개), Thunder Shock (전기쇼크)
+  Lv. 1: Protect (방어), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Aqua Jet (아쿠아제트), Thunder Shock (전기쇼크), Haze (흑안개)
+  Lv. 18: Fin Cutter (커터핀)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Birdramon (Fairy/Fire, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hurricane (폭풍), Endure (버티기), Faeng Rush (페어리팽)
+  Lv. 1: Follow Me (날따름), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Heat Wave (열풍), Snarl (바크아웃), Acrobatics (애크러뱃), Roost (날개쉬기), Bestow (기프트패스)
+  Lv. 4: Hurricane (폭풍), Endure (버티기), Faeng Rush (페어리팽)
+  Lv. 38: Flare Blitz (플레어드라이브)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Helping Hand (도우미)
+  - Hurricane (폭풍)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+  - Zen Headbutt (사념의박치기)
+
+===== Biyomon (Fairy/Flying, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Acrobatics (애크러뱃), Roost (날개쉬기), Bestow (기프트패스)
+  Lv. 1: Snarl (바크아웃), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Acrobatics (애크러뱃), Roost (날개쉬기), Bestow (기프트패스)
+  Lv. 18: Heat Wave (열풍)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+
+===== Botamon (Normal, Baby) =====
+[Level-up Moves]
+  Lv. 1: Bubble (거품)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Cherrymon (Grass/Poison, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Focus Energy (기충전), Cross Poison (크로스포이즌), Wood Hammer (우드해머)
+  Lv. 1: Forest's Curse (숲의저주), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Energy Ball (에너지볼), Toxic Spikes (독압정), Knock Off (탁쳐서떨구기), Leech Seed (씨뿌리기), Leaf Blade (리프블레이드), Growth (성장)
+  Lv. 5: Focus Energy (기충전), Cross Poison (크로스포이즌), Wood Hammer (우드해머)
+  Lv. 65: Encore (앙코르), Cherry Blast (체리의 유혹)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Foul Play (속임수)
+  - Frenzy Plant (하드플랜트)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Thunder Punch (번개펀치)
+
+===== Coelamon (Water/Steel, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Metal Burst (메탈버스트), Surf (파도타기), Volt Switch (볼트체인지)
+  Lv. 1: Payback (보복), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Water Gun (물대포), Withdraw (껍질에숨기), Cut (풀베기), Rock Smash (바위깨기)
+  Lv. 4: Metal Burst (메탈버스트), Surf (파도타기), Volt Switch (볼트체인지)
+  Lv. 38: Iron Head (아이언헤드)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Aqua Tail (아쿠아테일)
+  - Iron Head (아이언헤드)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Zen Headbutt (사념의박치기)
+
+===== Crabmon (Water, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Water Gun (물대포), Withdraw (껍질에숨기)
+  Lv. 1: Rock Smash (바위깨기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Water Gun (물대포), Withdraw (껍질에숨기)
+  Lv. 18: Cut (풀베기)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+
+===== Demidevimon (Flying/Poison, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Toxic (맹독), Aerial Ace (제비반환), Leech Life (흡혈), Dark Pulse (악의파동)
+  Lv. 1: Taunt (도발), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Toxic (맹독), Aerial Ace (제비반환), Dark Pulse (악의파동), Leech Life (흡혈)
+  Lv. 18: Ambush (급습)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Icy Wind (얼어붙은바람)
+  - Rollout (구르기)
+
+===== Devimon (Flying/Poison, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Cross Poison (크로스포이즌), Evil Wing (레더윙), Night Slash (깜짝베기), Foul Play (속임수)
+  Lv. 1: Will-O-Wisp (도깨비불), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Ambush (급습), Taunt (도발), Toxic (맹독), Leech Life (흡혈), Dark Pulse (악의파동), Aerial Ace (제비반환)
+  Lv. 4: Cross Poison (크로스포이즌), Evil Wing (레더윙), Night Slash (깜짝베기), Will-O-Wisp (도깨비불)
+  Lv. 45: Fling (내던지기), Devil's Deed (헬컨트랙트)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Heat Wave (열풍)
+  - Hurricane (폭풍)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Knock Off (탁쳐서떨구기)
+  - Rollout (구르기)
+  - Sucker Punch (기습)
+  - Superpower (엄청난힘)
+
+===== Diaboromon (Poison/Dark, Mega Virus) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Page Fault (페이지폴트), Cable Crusher (케이블크러셔), Foul Play (속임수), Dark Pulse (악의파동)
+  Lv. 1: Nasty Plot (나쁜음모), Pursuit (따라가때리기), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Taunt (도발), Toxic (맹독), Infestation (엉겨붙기), Bug Blaster (크레이지기글), Supersonic (초음파), Parting Shot (막말내뱉기)
+  Lv. 4: Conversion 2 (텍스처2), Signal Beam (시그널빔), Double Team (그림자분신), Virus Skater (바이러스스케이터), Bug Buzz (벌레의야단법석), Sticky Web (끈적끈적네트)
+  Lv. 5: Page Fault (페이지폴트), Cable Crusher (케이블크러셔), Foul Play (속임수), Dark Pulse (악의파동)
+  Lv. 100: Web Wrecker (캐논발사)
+
+[TEACH (Tutor) Moves]
+  - Fire Punch (불꽃펀치)
+  - Foul Play (속임수)
+  - Iron Head (아이언헤드)
+  - Knock Off (탁쳐서떨구기)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Sucker Punch (기습)
+  - Thunder Punch (번개펀치)
+
+===== Drimogemon (Ground, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Spikes (압정뿌리기), Dig (구멍파기), Hone Claws (손톱갈기), Stone Edge (스톤에지)
+  Lv. 1: Copycat (흉내쟁이), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Thunder Shock (전기쇼크), Extreme Speed (신속), Tail Slap (스위프뺨치기), Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기), Dive (다이빙), Baton Pass (배턴터치), Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기)
+  Lv. 4: Spikes (압정뿌리기), Dig (구멍파기), Stone Edge (스톤에지), Hone Claws (손톱갈기)
+  Lv. 38: Drill Run (드릴라이너)
+  Lv. 75: Horn Drill (뿔드릴)
+
+[TEACH (Tutor) Moves]
+  - Drill Run (드릴라이너)
+  - Earth Power (대지의힘)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+
+===== Elecmon (Electric, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Thunder Shock (전기쇼크), Tail Slap (스위프뺨치기)
+  Lv. 1: Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Thunder Shock (전기쇼크), Tail Slap (스위프뺨치기)
+  Lv. 18: Extreme Speed (신속)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+
+===== Etemon (Fighting/Ground, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Concert Crush (공포의음악회), Jump Kick (점프킥), Bulldoze (땅고르기), Swagger (뽐내기)
+  Lv. 1: Circle Throw (배대뒤치기), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Toxic (맹독), Hone Claws (손톱갈기), Bite (물기), Night Slash (깜짝베기), Taunt (도발)
+  Lv. 4: Concert Crush (공포의음악회), Jump Kick (점프킥), Bulldoze (땅고르기), Swagger (뽐내기)
+  Lv. 60: Dark Network (어둠의케이블)
+
+[TEACH (Tutor) Moves]
+  - Drain Punch (드레인펀치)
+  - Foul Play (속임수)
+  - Hyper Voice (하이퍼보이스)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Sucker Punch (기습)
+  - Vacuum Wave (진공파)
+
+===== Flymon (Electric/Poison, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Bug Bite (벌레먹기), Thunder Slash (볼트블레이드), Sludge Wave (오물웨이브)
+  Lv. 1: Toxic Spikes (독압정), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Thunder Wave (전기자석파), Electroweb (일렉트릭네트), Poison Sting (독침), Coil (똬리틀기)
+  Lv. 4: Bug Bite (벌레먹기), Thunder Slash (볼트블레이드), Sludge Wave (오물웨이브)
+  Lv. 38: Gunk Shot (더스트슈트)
+  Lv. 75: Fell Stinger (마지막일침)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+  - Roost (날개쉬기)
+  - Signal Beam (시그널빔)
+  - Thunder Punch (번개펀치)
+
+===== Frigimon (Ice, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Ice Punch (냉동펀치), Icicle Crash (고드름떨구기), Power-Up Punch (그로우펀치)
+  Lv. 1: Encore (앙코르), Helping Hand (도우미), Bubble (거품), Baton Pass (배턴터치)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기), Dive (다이빙), Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기)
+  Lv. 4: Ice Punch (냉동펀치), Icicle Crash (고드름떨구기), Power-Up Punch (그로우펀치)
+  Lv. 38: Close Combat (인파이트)
+  Lv. 75: After You (당신먼저)
+
+[TEACH (Tutor) Moves]
+  - Ice Punch (냉동펀치)
+  - Rollout (구르기)
+  - Zen Headbutt (사념의박치기)
+
+===== Gabumon (Ice, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Mach Punch (마하펀치), Blue Blaster (쁘띠파이어)
+  Lv. 1: Ice Punch (냉동펀치), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Mach Punch (마하펀치), Blue Blaster (쁘띠파이어)
+  Lv. 18: Horn Attack (뿔찌르기)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Garudamon (Fire/Flying, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Brave Bird (브레이브버드), High Jump Kick (무릎차기), Extreme Speed (신속)
+  Lv. 1: Power-Up Punch (그로우펀치), Tailwind (순풍), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Heat Wave (열풍), Snarl (바크아웃), Acrobatics (애크러뱃), Roost (날개쉬기), Bestow (기프트패스)
+  Lv. 4: Flare Blitz (플레어드라이브), Faeng Rush (페어리팽), Follow Me (날따름), Hurricane (폭풍), Endure (버티기)
+  Lv. 65: Sacred Fire (성스러운불꽃)
+
+[TEACH (Tutor) Moves]
+  - Blast Burn (블라스트번)
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Fire Punch (불꽃펀치)
+  - Helping Hand (도우미)
+  - Hurricane (폭풍)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+  - Tailwind (순풍)
+  - Zen Headbutt (사념의박치기)
+
+===== Garurumon (Ice, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Ice Fang (얼음엄니), Fake Out (속이기)
+  Lv. 1: Ice Beam (냉동빔), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기)
+  Lv. 4: Ice Fang (얼음엄니), Fake Out (속이기)
+  Lv. 38: Howl (멀리짖기)
+
+[TEACH (Tutor) Moves]
+  - Icy Wind (얼어붙은바람)
+  - Rollout (구르기)
+
+===== Gazimon (Poison/Dark, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Toxic (맹독), Hone Claws (손톱갈기), Bite (물기)
+  Lv. 1: Taunt (도발), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Toxic (맹독), Hone Claws (손톱갈기), Bite (물기)
+  Lv. 18: Night Slash (깜짝베기)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Rollout (구르기)
+
+===== Gomamon (Water, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기)
+  Lv. 1: Baton Pass (배턴터치), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기)
+  Lv. 18: Dive (다이빙)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Greymon (Fire, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Dragon Tail (드래곤테일), Megahorn (메가혼), Fire Fang (불꽃엄니), Nova Blast (메가파이어), Megahorn (메가혼)
+  Lv. 1: Bestow (기프트패스), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Fire Fang (불꽃엄니), Dragon Tail (드래곤테일), Megahorn (메가혼)
+  Lv. 38: Nova Blast (메가파이어)
+
+[TEACH (Tutor) Moves]
+  - Fire Punch (불꽃펀치)
+  - Rollout (구르기)
+
+===== Ikkakumon (Ice/Water, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Body Slam (누르기), Ice Slash (아이스커터), Aurora Beam (오로라빔)
+  Lv. 1: Roar (울부짖기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기), Baton Pass (배턴터치), Dive (다이빙)
+  Lv. 4: Body Slam (누르기), Ice Slash (아이스커터), Aurora Beam (오로라빔)
+  Lv. 38: Drill Run (드릴라이너)
+
+[TEACH (Tutor) Moves]
+  - Drill Run (드릴라이너)
+  - Earth Power (대지의힘)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Stealth Rock (스텔스록)
+
+===== Infermon (Bug/Poison, Ultimate Virus) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Signal Beam (시그널빔), Double Team (그림자분신), Virus Skater (바이러스스케이터)
+  Lv. 1: Sticky Web (끈적끈적네트), Conversion 2 (텍스처2), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Taunt (도발), Toxic (맹독), Infestation (엉겨붙기), Bug Blaster (크레이지기글), Supersonic (초음파), Parting Shot (막말내뱉기)
+  Lv. 4: Signal Beam (시그널빔), Double Team (그림자분신), Virus Skater (바이러스스케이터)
+  Lv. 60: Bug Buzz (벌레의야단법석)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Sucker Punch (기습)
+  - Thunder Punch (번개펀치)
+
+===== Kabuterimon (Bug/Electric, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Attack Order (공격지령), Roost (날개쉬기), Wild Charge (와일드볼트)
+  Lv. 1: Glare (뱀눈초리), Electro Ball (일렉트릭볼), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Steamroller (하드롤러), Thunder Shock (전기쇼크), Wing Attack (날개치기), Teleport (순간이동)
+  Lv. 4: Attack Order (공격지령), Roost (날개쉬기), Wild Charge (와일드볼트)
+  Lv. 38: Sticky Web (끈적끈적네트), Night Shade (나이트헤드)
+
+[TEACH (Tutor) Moves]
+  - Drill Run (드릴라이너)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Superpower (엄청난힘)
+
+===== Keramon (Poison, Rookie Virus) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Toxic (맹독), Infestation (엉겨붙기), Bug Blaster (크레이지기글), Supersonic (초음파)
+  Lv. 1: Taunt (도발), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Toxic (맹독), Infestation (엉겨붙기), Bug Blaster (크레이지기글), Supersonic (초음파)
+  Lv. 20: Parting Shot (막말내뱉기)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Sucker Punch (기습)
+  - Thunder Punch (번개펀치)
+
+===== Koromon (Normal, In-Training) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 1: Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Kunemon (Electric/Poison, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Thunder Wave (전기자석파), String Shot (실뿜기), Poison Sting (독침)
+  Lv. 1: Coil (똬리틀기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Thunder Wave (전기자석파), String Shot (실뿜기), Poison Sting (독침)
+  Lv. 18: Electroweb (일렉트릭네트)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Kuwagamon (Bug/Fighting, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): X-Scissor (시저크로스), Brick Break (깨트리기), Swords Dance (칼춤)
+  Lv. 1: Guillotine (가위자르기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Thunder Wave (전기자석파), String Shot (실뿜기), Poison Sting (독침), Coil (똬리틀기), Electroweb (일렉트릭네트), Steamroller (하드롤러), Thunder Shock (전기쇼크), Wing Attack (날개치기), Teleport (순간이동)
+  Lv. 4: X-Scissor (시저크로스), Brick Break (깨트리기), Swords Dance (칼춤)
+  Lv. 38: Steel Wing (강철날개)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+  - Roost (날개쉬기)
+  - Stealth Rock (스텔스록)
+  - Sucker Punch (기습)
+  - Superpower (엄청난힘)
+
+===== Leomon (Normal/Fighting, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Strength (괴력), Sacred Sword (성스러운칼), Swords Dance (칼춤)
+  Lv. 1: Follow Me (날따름), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품), Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Toxic (맹독), Hone Claws (손톱갈기), Bite (물기), Taunt (도발), Night Slash (깜짝베기), Thunder Shock (전기쇼크), Extreme Speed (신속), Tail Slap (스위프뺨치기)
+  Lv. 4: Strength (괴력), Sacred Sword (성스러운칼), Swords Dance (칼춤)
+  Lv. 38: Lion Sword (야수검)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Iron Head (아이언헤드)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Thunder Punch (번개펀치)
+  - Zen Headbutt (사념의박치기)
+
+===== Lillymon (Grass/Fairy, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Solar Beam (솔라빔), Moonblast (문포스), Rage Powder (분노가루), Hurricane (폭풍)
+  Lv. 1: U-turn (유턴), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Dry Needles (따끔미사일), Bullet Punch (불릿펀치), Spiky Shield (니들가드), Cactus Smash (스파이크해머), Drain Punch (드레인펀치), Bulk Up (벌크업)
+  Lv. 5: Solar Beam (솔라빔), Moonblast (문포스), Rage Powder (분노가루), Hurricane (폭풍)
+  Lv. 65: Calm Mind (명상)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Drain Punch (드레인펀치)
+  - Frenzy Plant (하드플랜트)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Heat Wave (열풍)
+  - Helping Hand (도우미)
+  - Hurricane (폭풍)
+  - Iron Head (아이언헤드)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Roost (날개쉬기)
+  - Seed Bomb (씨폭탄)
+  - Sucker Punch (기습)
+  - Superpower (엄청난힘)
+  - Thunder Punch (번개펀치)
+  - Vacuum Wave (진공파)
+  - Zen Headbutt (사념의박치기)
+
+===== Machinedramon (Steel/Ghost, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Death Nail (데스네일), Nasty Plot (나쁜음모), Overheat (오버히트)
+  Lv. 1: Switcheroo (바꿔치기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Fire Fang (불꽃엄니), Nova Blast (메가파이어), Megahorn (메가혼), Dragon Tail (드래곤테일)
+  Lv. 5: Shadow Claw (섀도클로), Dragon Pulse (용의파동), Snarl (바크아웃), U-turn (유턴), Dark Shot (그라운드제로)
+  Lv. 6: Death Nail (데스네일), Nasty Plot (나쁜음모), Overheat (오버히트)
+  Lv. 90: Mugen Cannon (파워포)
+
+[TEACH (Tutor) Moves]
+  - Dragon Pulse (용의파동)
+  - Fire Punch (불꽃펀치)
+  - Foul Play (속임수)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+
+===== MagnaAngemon (Fairy/Flying, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Judgment (심판의뭉치), Beam Shield (빔실드), Heal Bell (치료방울), Swords Dance (칼춤)
+  Lv. 1: Hurricane (폭풍), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Wing Attack (날개치기), Quick Attack (전광석화), Work Up (분발), Hyper Voice (하이퍼보이스)
+  Lv. 4: Light of Ruin (파멸의빛), Whirlwind (날려버리기), Air Slam (헤일로어택), Pursuit (따라가때리기), Heaven's Knuckle (천사의손)
+  Lv. 5: Judgment (심판의뭉치), Beam Shield (빔실드), Heal Bell (치료방울), Swords Dance (칼춤)
+  Lv. 65: Excalibur (엑스칼리버)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Heal Bell (치료방울)
+  - Helping Hand (도우미)
+  - Hurricane (폭풍)
+  - Hyper Voice (하이퍼보이스)
+  - Iron Head (아이언헤드)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+  - Vacuum Wave (진공파)
+  - Zen Headbutt (사념의박치기)
+
+===== MegaKabuterimon (Bug/Electric, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Horn Buster (뿔치기), Discharge (방전), Close Combat (인파이트)
+  Lv. 1: Nasty Plot (나쁜음모), U-turn (유턴), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Steamroller (하드롤러), Thunder Shock (전기쇼크), Wing Attack (날개치기), Teleport (순간이동)
+  Lv. 4: Glare (뱀눈초리), Attack Order (공격지령), Roost (날개쉬기), Wild Charge (와일드볼트), Electro Ball (일렉트릭볼), Sticky Web (끈적끈적네트), Night Shade (나이트헤드)
+  Lv. 5: Horn Buster (뿔치기), Discharge (방전), Close Combat (인파이트)
+  Lv. 65: Bug Buzz (벌레의야단법석)
+
+[TEACH (Tutor) Moves]
+  - Dragon Pulse (용의파동)
+  - Drill Run (드릴라이너)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Roost (날개쉬기)
+  - Signal Beam (시그널빔)
+  - Superpower (엄청난힘)
+  - Thunder Punch (번개펀치)
+
+===== MegaSeadramon (Water/Dragon, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hydro Pump (하이드로펌프), Thunderbolt (10만볼트), Dragon Rush (드래곤다이브)
+  Lv. 1: Aqua Tail (아쿠아테일)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡), Bubble (거품)
+  Lv. 3: Protect (방어), Fin Cutter (커터핀), Aqua Jet (아쿠아제트), Haze (흑안개), Thunder Shock (전기쇼크)
+  Lv. 4: Ice Blast (얼음화살), Recover (HP회복), Scald (열탕), Dragon Tail (드래곤테일), Coil (똬리틀기)
+  Lv. 5: Hydro Pump (하이드로펌프), Thunderbolt (10만볼트), Dragon Rush (드래곤다이브)
+  Lv. 65: Iron Tail (아이언테일)
+
+[TEACH (Tutor) Moves]
+  - Aqua Tail (아쿠아테일)
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Drill Run (드릴라이너)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+
+===== MetalEtemon (Fighting/Steel, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Gear Grind (기어소서), Doom Desire (파멸의소원), Hammer Arm (암해머)
+  Lv. 1: Detect (판별), Bullet Punch (불릿펀치), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Toxic (맹독), Hone Claws (손톱갈기), Bite (물기), Night Slash (깜짝베기), Taunt (도발)
+  Lv. 4: Circle Throw (배대뒤치기), Concert Crush (공포의음악회), Jump Kick (점프킥), Bulldoze (땅고르기), Swagger (뽐내기), Dark Network (어둠의케이블)
+  Lv. 5: Gear Grind (기어소서), Doom Desire (파멸의소원), Hammer Arm (암해머)
+  Lv. 90: Nuclear Punch (메가펀치)
+
+[TEACH (Tutor) Moves]
+  - Drain Punch (드레인펀치)
+  - Foul Play (속임수)
+  - Hyper Voice (하이퍼보이스)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Sucker Punch (기습)
+  - Thunder Punch (번개펀치)
+  - Vacuum Wave (진공파)
+
+===== MetalGarurumon (Ice/Steel, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Metal Claw (메탈클로), Extreme Speed (신속), Flash Cannon (러스터캐논), Ice Wolf Claw (아이스울프클로)
+  Lv. 1: Discharge (방전), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기)
+  Lv. 4: Ice Fang (얼음엄니), Fake Out (속이기), Howl (멀리짖기), Ice Beam (냉동빔)
+  Lv. 5: Power-Up Punch (그로우펀치), Sky Uppercut (스카이어퍼), Garuru-Kick (가루루킥), Double Kick (두번차기), Knock Off (탁쳐서떨구기)
+  Lv. 6: Metal Claw (메탈클로), Extreme Speed (신속), Flash Cannon (러스터캐논), Ice Wolf Claw (아이스울프클로)
+
+[TEACH (Tutor) Moves]
+  - Drain Punch (드레인펀치)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Kick (메가톤킥)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Superpower (엄청난힘)
+
+===== MetalGreymon (Fire/Steel, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Heat Crash (히트스탬프), Metal Claw (메탈클로)
+  Lv. 1: Bulldoze (땅고르기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Fire Fang (불꽃엄니), Nova Blast (메가파이어), Megahorn (메가혼), Dragon Tail (드래곤테일), Bestow (기프트패스)
+  Lv. 5: Heat Crash (히트스탬프), Metal Claw (메탈클로)
+  Lv. 60: Giga Destroyer (인공지능미사일)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Fire Punch (불꽃펀치)
+  - Heat Wave (열풍)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+
+===== MetalSeadramon (Steel/Dragon, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Thunder (번개), Dragon Rush (드래곤다이브), Flash Cannon (러스터캐논), Hydro Pump (하이드로펌프)
+  Lv. 1: Thunder Wave (전기자석파), Volt Switch (볼트체인지)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡), Bubble (거품)
+  Lv. 3: Protect (방어), Fin Cutter (커터핀), Aqua Jet (아쿠아제트), Haze (흑안개), Thunder Shock (전기쇼크)
+  Lv. 4: Ice Blast (얼음화살), Recover (HP회복), Scald (열탕), Dragon Tail (드래곤테일), Coil (똬리틀기)
+  Lv. 5: Thunder (번개), Dragon Rush (드래곤다이브), Flash Cannon (러스터캐논), Hydro Pump (하이드로펌프)
+  Lv. 90: Water Spout (해수스파우팅)
+
+[TEACH (Tutor) Moves]
+  - Aqua Tail (아쿠아테일)
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Hydro Cannon (하이드로캐논)
+  - Icy Wind (얼어붙은바람)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+
+===== Mojyamon (Normal, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hammer Arm (암해머), Rest (잠자기), Snatch (가로채기)
+  Lv. 1: Sleep Talk (잠꼬대), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기), Baton Pass (배턴터치), Dive (다이빙), Thunder Shock (전기쇼크), Extreme Speed (신속), Tail Slap (스위프뺨치기)
+  Lv. 4: Hammer Arm (암해머), Rest (잠자기), Snatch (가로채기)
+  Lv. 38: Body Slam (누르기)
+
+[TEACH (Tutor) Moves]
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+
+===== Monochromon (Ground/Fire, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Lava Plume (분연), Earthquake (지진), Counter (카운터), Outrage (역린)
+  Lv. 1: Stealth Rock (스텔스록), Bubble (거품)
+  Lv. 2: Tackle (몸통박치기), Boom Bubble (공기팡), Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기), Pepper Breath (꼬마불꽃), Incinerate (불태우기), Crush Claw (브레이크클로)
+  Lv. 4: Lava Plume (분연), Earthquake (지진), Counter (카운터), Outrage (역린)
+  Lv. 38: Heat Crash (히트스탬프)
+  Lv. 75: Rest (잠자기)
+
+[TEACH (Tutor) Moves]
+  - Dragon Pulse (용의파동)
+  - Drill Run (드릴라이너)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+  - Stealth Rock (스텔스록)
+
+===== Monzaemon (Normal/Fairy, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Play Rough (치근거리기), Strength (괴력), Pain Split (아픔나누기)
+  Lv. 1: Follow Me (날따름), Block (블록), Substitute (대타출동), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡), Lick (핥기), Protect (방어), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Seed Bomb (씨폭탄), Poison Powder (독가루), Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기), Thunder Shock (전기쇼크), Fin Cutter (커터핀), Aqua Jet (아쿠아제트), Haze (흑안개), Ice Punch (냉동펀치), Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기)
+  Lv. 4: Toxic (맹독), Hyper-Stink-Shot (초악취분사), Stockpile (비축하기), Swallow (꿀꺽), Spit Up (토해내기), Yucky Tongue (기분나쁜혀)
+  Lv. 5: Play Rough (치근거리기), Strength (괴력), Pain Split (아픔나누기)
+  Lv. 65: Earthquake (지진), Me First (선취)
+
+[TEACH (Tutor) Moves]
+  - Drain Punch (드레인펀치)
+  - Foul Play (속임수)
+  - Knock Off (탁쳐서떨구기)
+  - Rollout (구르기)
+  - Superpower (엄청난힘)
+
+===== Motimon (Normal, In-Training) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 1: Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Myotismon (Poison/Psychic, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Baton Pass (배턴터치), Sludge Wave (오물웨이브), Nasty Plot (나쁜음모)
+  Lv. 1: Hypnosis (최면술), Dream Eater (꿈먹기), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Ambush (급습), Taunt (도발), Toxic (맹독), Leech Life (흡혈), Dark Pulse (악의파동), Aerial Ace (제비반환)
+  Lv. 4: Cross Poison (크로스포이즌), Evil Wing (레더윙), Night Slash (깜짝베기), Foul Play (속임수), Will-O-Wisp (도깨비불), Fling (내던지기), Devil's Deed (헬컨트랙트)
+  Lv. 5: Baton Pass (배턴터치), Sludge Wave (오물웨이브), Nasty Plot (나쁜음모)
+  Lv. 75: Inferno (연옥), Psystrike (사이코브레이크)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Defog (안개제거)
+  - Earth Power (대지의힘)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Heat Wave (열풍)
+  - Hurricane (폭풍)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Knock Off (탁쳐서떨구기)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Sucker Punch (기습)
+  - Superpower (엄청난힘)
+  - Zen Headbutt (사념의박치기)
+
+===== Numemon (Poison/Dark, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hyper-Stink-Shot (초악취분사), Stockpile (비축하기), Swallow (꿀꺽), Spit Up (토해내기)
+  Lv. 1: Toxic (맹독), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡), Lick (핥기), Protect (방어), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Seed Bomb (씨폭탄), Poison Powder (독가루), Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기), Thunder Shock (전기쇼크), Fin Cutter (커터핀), Aqua Jet (아쿠아제트), Haze (흑안개), Ice Punch (냉동펀치), Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Hyper-Stink-Shot (초악취분사)
+  Lv. 4: Stockpile (비축하기), Swallow (꿀꺽), Spit Up (토해내기)
+  Lv. 38: Yucky Tongue (기분나쁜혀)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+
+===== Ogremon (Dark, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Beat Up (집단구타), Bone Sweep (뼈다귀휩쓸기), Knock Off (탁쳐서떨구기)
+  Lv. 1: Detect (판별), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기), Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Beat Up (집단구타), Bone Sweep (뼈다귀휩쓸기), Knock Off (탁쳐서떨구기)
+  Lv. 38: Bulk Up (벌크업)
+  Lv. 75: Stone Edge (스톤에지)
+
+[TEACH (Tutor) Moves]
+  - Drain Punch (드레인펀치)
+  - Foul Play (속임수)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Stealth Rock (스텔스록)
+
+===== Okuwamon (Bug/Fighting, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Cross Chop (크로스촙), Focus Blast (기합구슬), Leech Life (흡혈)
+  Lv. 1: Zap Cannon (전자포), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Thunder Wave (전기자석파), String Shot (실뿜기), Poison Sting (독침), Coil (똬리틀기), Electroweb (일렉트릭네트), Steamroller (하드롤러), Thunder Shock (전기쇼크), Wing Attack (날개치기), Teleport (순간이동)
+  Lv. 4: X-Scissor (시저크로스), Guillotine (가위자르기), Swords Dance (칼춤), Brick Break (깨트리기), Steel Wing (강철날개)
+  Lv. 5: Cross Chop (크로스촙), Focus Blast (기합구슬), Leech Life (흡혈)
+  Lv. 65: Duo Scissor Claw (왕가위손)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Roost (날개쉬기)
+  - Stealth Rock (스텔스록)
+  - Sucker Punch (기습)
+  - Superpower (엄청난힘)
+
+===== Omnimon (Fire/Ice, Legendary Warrior) =====
+[Level-up Moves]
+  Lv. 1: Judgment (심판의뭉치), Taunt (도발), Bubble (거품)
+  Lv. 2: Boom Bubble (공기팡), Tackle (몸통박치기), Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기), Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기)
+  Lv. 4: Fire Fang (불꽃엄니), Nova Blast (메가파이어), Megahorn (메가혼), Dragon Tail (드래곤테일), Bestow (기프트패스), Ice Fang (얼음엄니), Fake Out (속이기), Howl (멀리짖기), Ice Beam (냉동빔)
+  Lv. 5: Metal Claw (메탈클로), Giga Destroyer (인공지능미사일), Heat Crash (히트스탬프), Bulldoze (땅고르기), Power-Up Punch (그로우펀치), Sky Uppercut (스카이어퍼), Garuru-Kick (가루루킥), Double Kick (두번차기), Knock Off (탁쳐서떨구기)
+  Lv. 6: Steel Wing (강철날개), King's Shield (킹실드), Hone Claws (손톱갈기), Extreme Speed (신속), Flash Cannon (러스터캐논), Discharge (방전)
+  Lv. 7: Ice Wolf Claw (아이스울프클로), Omni Blast (오메가블래스트), Omni Howl (오메가하울링), Terra Force (테라광선), Supreme Cannon (가루루캐논)
+  Lv. 100: Transcendent Sword (그레이소드)
+
+[TEACH (Tutor) Moves]
+  - Blast Burn (블라스트번)
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Drain Punch (드레인펀치)
+  - Heat Wave (열풍)
+  - Helping Hand (도우미)
+  - Hurricane (폭풍)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Iron Tail (아이언테일)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Kick (메가톤킥)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Superpower (엄청난힘)
+
+===== Pagumon (Poison, In-Training) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 1: Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Rollout (구르기)
+
+===== Palmon (Grass, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그)
+  Lv. 1: Poison Powder (독가루), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그)
+  Lv. 18: Seed Bomb (씨폭탄)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+
+===== Patamon (Flying/Normal, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Wing Attack (날개치기), Quick Attack (전광석화)
+  Lv. 1: Hyper Voice (하이퍼보이스), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Wing Attack (날개치기), Quick Attack (전광석화)
+  Lv. 18: Work Up (분발)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Hurricane (폭풍)
+  - Hyper Voice (하이퍼보이스)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+
+===== Phantomon (Poison/Ghost, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Soul Chopper (영혼가르기), Spikes (압정뿌리기), Poison Jab (독찌르기)
+  Lv. 1: Future Sight (미래예지), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Ambush (급습), Taunt (도발), Toxic (맹독), Leech Life (흡혈), Dark Pulse (악의파동), Aerial Ace (제비반환)
+  Lv. 4: Yawn (하품), Substitute (대타출동), Memento (추억의선물), Clear Smog (클리어스모그), Shadow Ball (섀도볼), Super Fang (분노의앞니), Pain Split (아픔나누기)
+  Lv. 5: Soul Chopper (영혼가르기), Spikes (압정뿌리기), Poison Jab (독찌르기)
+  Lv. 65: Perish Song (멸망의노래)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Teleport (순간이동)
+
+===== Piedmon (Ghost/Dark, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Night Slash (깜짝베기), Thunderbolt (10만볼트), Swords Dance (칼춤)
+  Lv. 1: Shadow Sneak (야습), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Ambush (급습), Taunt (도발), Toxic (맹독), Leech Life (흡혈), Dark Pulse (악의파동), Aerial Ace (제비반환)
+  Lv. 4: Yawn (하품), Substitute (대타출동), Memento (추억의선물), Clear Smog (클리어스모그), Shadow Ball (섀도볼), Super Fang (분노의앞니), Pain Split (아픔나누기)
+  Lv. 5: Future Sight (미래예지), Soul Chopper (영혼가르기), Teleport (순간이동), Spikes (압정뿌리기), Poison Jab (독찌르기), Perish Song (멸망의노래)
+  Lv. 6: Night Slash (깜짝베기), Thunderbolt (10만볼트), Swords Dance (칼춤)
+  Lv. 90: Trump Sword (트럼프소드)
+
+[TEACH (Tutor) Moves]
+  - Defog (안개제거)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Teleport (순간이동)
+  - Trick (트릭)
+
+===== Piximon (Fairy/Fighting, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Play Rough (치근거리기), Fling (내던지기), Focus Blast (기합구슬), Ally Switch (사이드체인지)
+  Lv. 1: Trick (트릭), Bubble (거품)
+  Lv. 2: Tackle (몸통박치기), Boom Bubble (공기팡), Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Wing Attack (날개치기), Quick Attack (전광석화), Work Up (분발), Hyper Voice (하이퍼보이스), Acrobatics (애크러뱃), Roost (날개쉬기), Heat Wave (열풍), Snarl (바크아웃), Bestow (기프트패스), Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기), Baton Pass (배턴터치), Dive (다이빙), Thunder Shock (전기쇼크), Extreme Speed (신속), Tail Slap (스위프뺨치기)
+  Lv. 4: Play Rough (치근거리기), Low Kick (안다리걸기), Iron Head (아이언헤드), Spikes (압정뿌리기), Magic Coat (매직코트), Rest (잠자기), Snatch (가로채기), Hammer Arm (암해머), Body Slam (누르기), Sleep Talk (잠꼬대)
+  Lv. 5: Play Rough (치근거리기), Fling (내던지기), Focus Blast (기합구슬), Ally Switch (사이드체인지)
+  Lv. 65: High Jump Kick (무릎차기)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Hurricane (폭풍)
+  - Hyper Voice (하이퍼보이스)
+  - Iron Head (아이언헤드)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+  - Sucker Punch (기습)
+  - Thunder Punch (번개펀치)
+
+===== Puppetmon (Grass/Dark, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Dark Pulse (악의파동), Night Slash (깜짝베기), Fling (내던지기), Nasty Plot (나쁜음모)
+  Lv. 1: Acupressure (경혈찌르기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Energy Ball (에너지볼), Toxic Spikes (독압정), Knock Off (탁쳐서떨구기), Leech Seed (씨뿌리기), Leaf Blade (리프블레이드), Growth (성장)
+  Lv. 5: Forest's Curse (숲의저주), Focus Energy (기충전), Cross Poison (크로스포이즌), Wood Hammer (우드해머), Encore (앙코르), Cherry Blast (체리의 유혹)
+  Lv. 90: Topsy-Turvy (뒤집어엎기), Bullet Hammer (피노키해머)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Drain Punch (드레인펀치)
+  - Drill Run (드릴라이너)
+  - Foul Play (속임수)
+  - Frenzy Plant (하드플랜트)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Knock Off (탁쳐서떨구기)
+  - Iron Head (아이언헤드)
+  - Mega Kick (메가톤킥)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Sucker Punch (기습)
+  - Thunder Punch (번개펀치)
+
+===== RedVegiemon (Grass/Poison, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Power Whip (파워휩), Gunk Shot (더스트슈트), Toxic (맹독)
+  Lv. 1: Bulk Up (벌크업), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Power Whip (파워휩), Gunk Shot (더스트슈트), Toxic (맹독)
+  Lv. 38: Dynamic Punch (폭발펀치)
+  Lv. 75: Memento (추억의선물)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Knock Off (탁쳐서떨구기)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Sucker Punch (기습)
+
+===== SaberLeomon (Electric/Fighting, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Infinity Arrow (인피니티애로), Volt Switch (볼트체인지), Wild Charge (와일드볼트), Low Kick (안다리걸기)
+  Lv. 1: Roar (울부짖기), Ice Fang (얼음엄니), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품), Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Toxic (맹독), Hone Claws (손톱갈기), Bite (물기), Taunt (도발), Night Slash (깜짝베기), Thunder Shock (전기쇼크), Extreme Speed (신속), Tail Slap (스위프뺨치기)
+  Lv. 4: Strength (괴력), Sacred Sword (성스러운칼), Swords Dance (칼춤), Follow Me (날따름), Lion Sword (야수검)
+  Lv. 5: Infinity Arrow (인피니티애로), Volt Switch (볼트체인지), Low Kick (안다리걸기), Wild Charge (와일드볼트)
+  Lv. 90: Nail Crusher (심판의발톱)
+
+[TEACH (Tutor) Moves]
+  - Foul Play (속임수)
+  - Hyper Voice (하이퍼보이스)
+  - Iron Head (아이언헤드)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Thunder Punch (번개펀치)
+  - Zen Headbutt (사념의박치기)
+
+===== Seadramon (Water/Dragon, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Dragon Tail (드래곤테일), Ice Blast (얼음화살), Recover (HP회복)
+  Lv. 1: Scald (열탕), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Protect (방어), Fin Cutter (커터핀), Aqua Jet (아쿠아제트), Haze (흑안개), Thunder Shock (전기쇼크)
+  Lv. 4: Dragon Tail (드래곤테일), Ice Blast (얼음화살), Recover (HP회복)
+  Lv. 38: Coil (똬리틀기)
+
+[TEACH (Tutor) Moves]
+  - Aqua Tail (아쿠아테일)
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Icy Wind (얼어붙은바람)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+
+===== Shellmon (Water/Ground, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Spikes (압정뿌리기), Shell Smash (껍질깨기), Hydro Pump (하이드로펌프), Flash Flood (살여울)
+  Lv. 1: Rapid Spin (고속스핀), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Lick (핥기), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Fin Cutter (커터핀), Aqua Jet (아쿠아제트), Haze (흑안개), Protect (방어), Thunder Shock (전기쇼크), Water Gun (물대포), Withdraw (껍질에숨기), Cut (풀베기), Rock Smash (바위깨기)
+  Lv. 4: Spikes (압정뿌리기), Shell Smash (껍질깨기), Hydro Pump (하이드로펌프), Flash Flood (살여울)
+  Lv. 38: Drill Run (드릴라이너)
+  Lv. 75: Cross Poison (크로스포이즌)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Dazzling Gleam (매지컬샤인)
+  - Dragon Pulse (용의파동)
+  - Drill Run (드릴라이너)
+  - Earth Power (대지의힘)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Ice Punch (냉동펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Signal Beam (시그널빔)
+
+===== SkullGreymon (Fire/Ghost, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Shadow Claw (섀도클로), Dragon Pulse (용의파동), Snarl (바크아웃)
+  Lv. 1: U-turn (유턴), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Fire Fang (불꽃엄니), Nova Blast (메가파이어), Megahorn (메가혼), Dragon Tail (드래곤테일)
+  Lv. 5: Shadow Claw (섀도클로), Dragon Pulse (용의파동), Snarl (바크아웃)
+  Lv. 60: Dark Shot (그라운드제로)
+
+[TEACH (Tutor) Moves]
+  - Dragon Pulse (용의파동)
+  - Fire Punch (불꽃펀치)
+  - Foul Play (속임수)
+  - Rollout (구르기)
+
+===== Tentomon (Bug/Flying, Rookie) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Steamroller (하드롤러), Thunder Shock (전기쇼크), Teleport (순간이동)
+  Lv. 1: Iron Defense (철벽), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Steamroller (하드롤러), Thunder Shock (전기쇼크), Teleport (순간이동)
+  Lv. 18: Wing Attack (날개치기)
+
+[TEACH (Tutor) Moves]
+  - Iron Head (아이언헤드)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+
+===== Togemon (Grass/Fighting, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Bulk Up (벌크업), Bullet Punch (불릿펀치), Spiky Shield (니들가드), Cactus Smash (스파이크해머)
+  Lv. 1: Dry Needles (따끔미사일), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Bulk Up (벌크업), Bullet Punch (불릿펀치), Spiky Shield (니들가드), Cactus Smash (스파이크해머)
+  Lv. 38: Drain Punch (드레인펀치)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Drain Punch (드레인펀치)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Heat Wave (열풍)
+  - Iron Head (아이언헤드)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Sucker Punch (기습)
+  - Superpower (엄청난힘)
+  - Thunder Punch (번개펀치)
+  - Vacuum Wave (진공파)
+
+===== Tsunomon (Normal, In-Training) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 1: Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+
+===== Tyrannomon (Fire, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Dino Kick (다이노킥), Searing Slash (버닝블레이드), Flame Charge (니트로차지)
+  Lv. 1: Leech Seed (씨뿌리기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Dino Kick (다이노킥), Searing Slash (버닝블레이드), Flame Charge (니트로차지)
+  Lv. 38: Wild Charge (와일드볼트)
+  Lv. 75: Bulldoze (땅고르기)
+
+[TEACH (Tutor) Moves]
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Sucker Punch (기습)
+
+===== Unimon (Steel/Fairy, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Play Rough (치근거리기), Low Kick (안다리걸기), Baton Pass (배턴터치)
+  Lv. 1: Spikes (압정뿌리기), Magic Coat (매직코트)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Thunder Shock (전기쇼크), Extreme Speed (신속), Tail Slap (스위프뺨치기), Wing Attack (날개치기), Quick Attack (전광석화), Work Up (분발), Hyper Voice (하이퍼보이스), Acrobatics (애크러뱃), Roost (날개쉬기), Heat Wave (열풍), Snarl (바크아웃), Bestow (기프트패스)
+  Lv. 4: Play Rough (치근거리기), Low Kick (안다리걸기), Baton Pass (배턴터치)
+  Lv. 38: Iron Head (아이언헤드)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Defog (안개제거)
+  - Hurricane (폭풍)
+  - Hyper Voice (하이퍼보이스)
+  - Iron Head (아이언헤드)
+  - Roost (날개쉬기)
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+
+===== Vegiemon (Grass/Poison, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Compost Bomber (짬뽕탄), Leech Seed (씨뿌리기), Toxic (맹독)
+  Lv. 1: Acid Armor (녹기), Infestation (엉겨붙기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Compost Bomber (짬뽕탄), Leech Seed (씨뿌리기), Toxic (맹독)
+  Lv. 38: Grass Pledge (풀의맹세)
+  Lv. 75: Parting Shot (막말내뱉기)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Knock Off (탁쳐서떨구기)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+
+===== WarGreymon (Fire/Steel, Mega) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Terra Force (테라광선), Steel Wing (강철날개), King's Shield (킹실드)
+  Lv. 1: Hone Claws (손톱갈기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Tackle (몸통박치기), Boom Bubble (공기팡)
+  Lv. 3: Pepper Breath (꼬마불꽃), Crush Claw (브레이크클로), Incinerate (불태우기)
+  Lv. 4: Nova Blast (메가파이어), Fire Fang (불꽃엄니), Megahorn (메가혼), Dragon Tail (드래곤테일), Bestow (기프트패스)
+  Lv. 5: Giga Destroyer (인공지능미사일), Heat Crash (히트스탬프), Metal Claw (메탈클로), Bulldoze (땅고르기)
+  Lv. 6: Terra Force (테라광선), Steel Wing (강철날개), King's Shield (킹실드)
+
+[TEACH (Tutor) Moves]
+  - Blast Burn (블라스트번)
+  - Defog (안개제거)
+  - Dragon Pulse (용의파동)
+  - Fire Punch (불꽃펀치)
+  - Heat Wave (열풍)
+  - Iron Head (아이언헤드)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+
+===== WereGarurumon (Ice/Fighting, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Power-Up Punch (그로우펀치), Sky Uppercut (스카이어퍼), Knock Off (탁쳐서떨구기)
+  Lv. 1: Double Kick (두번차기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Mach Punch (마하펀치), Blue Blaster (쁘띠파이어), Horn Attack (뿔찌르기), Retaliate (원수갚기)
+  Lv. 4: Ice Fang (얼음엄니), Fake Out (속이기), Ice Beam (냉동빔), Howl (멀리짖기)
+  Lv. 5: Power-Up Punch (그로우펀치), Sky Uppercut (스카이어퍼), Knock Off (탁쳐서떨구기)
+  Lv. 60: Garuru-Kick (가루루킥)
+
+[TEACH (Tutor) Moves]
+  - Drain Punch (드레인펀치)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Kick (메가톤킥)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Superpower (엄청난힘)
+
+===== Whamon (Water/Normal, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Flail (바둥바둥), Waterfall (폭포오르기), Slack Off (게으름피우기)
+  Lv. 1: Endure (버티기), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Water Gun (물대포), Withdraw (껍질에숨기), Cut (풀베기), Rock Smash (바위깨기)
+  Lv. 4: Metal Burst (메탈버스트), Surf (파도타기), Volt Switch (볼트체인지), Iron Head (아이언헤드), Payback (보복)
+  Lv. 5: Flail (바둥바둥), Waterfall (폭포오르기), Slack Off (게으름피우기)
+  Lv. 65: Strength (괴력)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Aqua Tail (아쿠아테일)
+  - Hydro Cannon (하이드로캐논)
+  - Iron Head (아이언헤드)
+  - Iron Tail (아이언테일)
+  - Rollout (구르기)
+  - Signal Beam (시그널빔)
+  - Zen Headbutt (사념의박치기)
+
+===== Wizardmon (Psychic/Ghost, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Shadow Ball (섀도볼), Calm Mind (명상), Wish (희망사항), Will-O-Wisp (도깨비불)
+  Lv. 1: Magnet Rise (전자부유), Thunder (번개), Bubble (거품)
+  Lv. 2: Night Shade (나이트헤드), Tackle (몸통박치기), Poison Bubbles (독성거품)
+  Lv. 3: Toxic (맹독), Aerial Ace (제비반환), Dark Pulse (악의파동), Leech Life (흡혈), Ambush (급습), Taunt (도발)
+  Lv. 4: Shadow Ball (섀도볼), Calm Mind (명상), Wish (희망사항), Will-O-Wisp (도깨비불)
+  Lv. 35: Necro Magic (죽음의마법)
+  Lv. 75: Trick Room (트릭룸)
+
+[TEACH (Tutor) Moves]
+  - Ancient Power (원시의힘)
+  - Defog (안개제거)
+  - Drain Punch (드레인펀치)
+  - Earth Power (대지의힘)
+  - Fire Punch (불꽃펀치)
+  - Foul Play (속임수)
+  - Giga Drain (기가드레인)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Thunder Punch (번개펀치)
+  - Trick (트릭)
+  - Vacuum Wave (진공파)
+  - Zen Headbutt (사념의박치기)
+
+===== Woodmon (Grass, Champion) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Toxic Spikes (독압정), Knock Off (탁쳐서떨구기), Leech Seed (씨뿌리기), Leaf Blade (리프블레이드)
+  Lv. 1: Energy Ball (에너지볼), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Protect (방어), Lick (핥기)
+  Lv. 3: Giga Drain (기가드레인), Stun Spore (저리가루), Clear Smog (클리어스모그), Poison Powder (독가루), Seed Bomb (씨폭탄)
+  Lv. 4: Toxic Spikes (독압정), Knock Off (탁쳐서떨구기), Leech Seed (씨뿌리기), Leaf Blade (리프블레이드)
+  Lv. 38: Growth (성장)
+
+[TEACH (Tutor) Moves]
+  - Dazzling Gleam (매지컬샤인)
+  - Giga Drain (기가드레인)
+  - Heal Bell (치료방울)
+  - Knock Off (탁쳐서떨구기)
+  - Mega Punch (메가톤펀치)
+  - Rollout (구르기)
+  - Seed Bomb (씨폭탄)
+  - Thunder Punch (번개펀치)
+
+===== Zudomon (Ice/Rock, Ultimate) =====
+[Level-up Moves]
+  Lv. 0 (on evolution): Blizzard (눈보라), Anvil Smash (앤빌스매시), Shell Smash (껍질깨기)
+  Lv. 1: Rapid Spin (고속스핀), Bubble (거품)
+  Lv. 2: Hidden Power (잠재파워), Swift (스피드스타), Growl (울음소리)
+  Lv. 3: Aqua Jet (아쿠아제트), Fury Swipes (마구할퀴기), Dive (다이빙), Baton Pass (배턴터치)
+  Lv. 4: Body Slam (누르기), Ice Slash (아이스커터), Aurora Beam (오로라빔), Drill Run (드릴라이너), Roar (울부짖기)
+  Lv. 5: Blizzard (눈보라), Anvil Smash (앤빌스매시), Shell Smash (껍질깨기)
+  Lv. 65: Vulcan's Hammer (쇠망치공격)
+
+[TEACH (Tutor) Moves]
+  - Drill Run (드릴라이너)
+  - Earth Power (대지의힘)
+  - Ice Punch (냉동펀치)
+  - Icy Wind (얼어붙은바람)
+  - Iron Head (아이언헤드)
+  - Rollout (구르기)
+  - Stealth Rock (스텔스록)
