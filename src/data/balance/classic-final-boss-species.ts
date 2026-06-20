@@ -12,6 +12,7 @@ import { getPokemonSpecies } from "#utils/pokemon-utils";
 
 /** Classic / Challenge wave-200 final boss and END biome boss pool. */
 const CLASSIC_FINAL_BOSS_SPECIES_IDS: readonly SpeciesId[] = [
+  SpeciesId.ETERNATUS,
   SpeciesId.MEWTWO,
   SpeciesId.RAYQUAZA,
   SpeciesId.GROUDON,
