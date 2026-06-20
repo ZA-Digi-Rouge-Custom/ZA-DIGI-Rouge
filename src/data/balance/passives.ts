@@ -432,7 +432,7 @@ export const starterPassiveAbilities: StarterPassiveAbilities = {
   [SpeciesId.EMPOLEON]: { 0: AbilityId.DRIZZLE },
   [SpeciesId.STARLY]: { 0: AbilityId.INTIMIDATE },
   [SpeciesId.STARAVIA]: { 0: AbilityId.ROCK_HEAD },
-  [SpeciesId.STARAPTOR]: { 0: AbilityId.ROCK_HEAD, 1: AbilityId.BATTLE_ARMOR },
+  [SpeciesId.STARAPTOR]: { 0: AbilityId.ROCK_HEAD, 1: AbilityId.ROCK_HEAD },
   [SpeciesId.BIDOOF]: { 0: AbilityId.SAP_SIPPER },
   [SpeciesId.BIBAREL]: { 0: AbilityId.SAP_SIPPER },
   [SpeciesId.KRICKETOT]: { 0: AbilityId.HONEY_GATHER },
